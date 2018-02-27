@@ -1,0 +1,44 @@
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Bot Application.dll.config
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Bot Application.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Bot Application.pdb
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.Bot.Builder.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.Bot.Connector.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Newtonsoft.Json.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Autofac.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.Bot.Builder.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.Bot.Connector.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\Newtonsoft.Json.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\System.Net.Http.Formatting.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\System.Web.Http.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\System.Web.Http.WebHost.xml
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\obj\Debug\Emocoes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\obj\Debug\Bot Application.dll
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\obj\Debug\Bot Application.pdb
+C:\Users\lucas\source\repos\MaratonaBot\Emocoes\obj\Debug\Emocoes.csprojResolveAssemblyReference.cache
